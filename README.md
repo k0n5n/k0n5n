@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @k0n5n
-- 👀 I’m interested in data science and cryptocurrencies
+- 🐧 Linux Sysadmin
+- 👀 I’m interested in linux and cryptocurrencies
 - 📫 @konsn5 on Twitter
 
 <!---
