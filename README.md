@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k0n5n
-- 🐧 Linux Sysadmin
+- 🐧 Selfhoster, Linux Sysadmin
 - 👀 I’m interested in linux and cryptocurrencies
 - 📫 @konsn5 on Twitter
 
