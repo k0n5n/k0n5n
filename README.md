@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k0n5n
+- ✨ The worst dev to ever exist ✨
 - 🐧 Selfhoster, Linux Sysadmin
-- 👀 I’m interested in linux and cryptocurrencies
 - 📫 @konsn5 on Twitter
 
 <!---
