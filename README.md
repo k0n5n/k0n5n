@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @k0n5n
 - ✨ The worst dev to ever exist ✨
 - 🐧 Selfhoster, Linux Sysadmin
-- 📫 @konsn5 on Twitter
 
 <!---
 k0n5n/k0n5n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
